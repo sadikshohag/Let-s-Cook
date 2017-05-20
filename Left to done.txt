@@ -1,0 +1,8 @@
+1. Nice look (Home page)
+2. CSS, JS does not working properly 
+3. remove dummy data.
+4. image should be added at article
+5. profile updating layout not appropiate. 
+6. menu should be dynamic. 
+7. Category should be added from dashboard. (Must)
+8. Paginaiton should be included in the list pages. 
